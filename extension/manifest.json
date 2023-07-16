@@ -1,0 +1,20 @@
+{
+    "name": "Find Your Meme",
+    "description": "Find Your Meme is a website dedicated to documenting Internet phenomena: memes, viral caps, catchphrases, web celebs and more.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Find Your Meme"
+    },
+    "host_permissions": [
+      "*://*/*",
+      "<all_urls>"
+    ],
+    "icons": {
+        "16": "logo.png",
+        "32": "logo.png",
+        "48": "logo.png",
+        "128": "logo.png"
+    }
+}
