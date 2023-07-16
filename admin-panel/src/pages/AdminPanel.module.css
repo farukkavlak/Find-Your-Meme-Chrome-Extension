@@ -1,0 +1,191 @@
+.recordPageContainer {
+  height: 100%;
+  min-height: 80vh;
+  margin: auto;
+  background-color: white;
+  width: 100%;
+}
+.recordPageTitle {
+  margin-right: 1vw;
+}
+  .voiceNumber {
+    width: 90%;
+    height: fit-content;
+    margin: 1vw auto;
+    border-radius: 1vw;
+    background-color: #f5f5f5;
+    padding: 1vw 0;
+  }
+  .voiceNumber div {
+    margin: 0 1vw;
+  }
+  .menuContainer {
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+  .menu {
+    width: 100%;
+  }
+  .menuColumn {
+    margin-bottom: 2vw;
+  }
+  .recordContainer {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+  }
+  .recordImage {
+    width: 80%;
+    margin-top: 1vw;
+  }
+  .warning {
+    color: red;
+    font-size: 1.5vw;
+    margin-top: 1vw;
+  }
+  .description {
+    font-size: 1.5vw;
+  }
+  .buttonGroup button {
+    margin: 1vw;
+  }
+  .record {
+    width: 80%;
+  }
+  
+  @media screen and (max-width: 768px) {
+    .recordPageContainer {
+      margin-top: 0;
+    }
+    .warning {
+      font-size: 4vw;
+    }
+    .description {
+      font-size: 3.5vw;
+    }
+    .buttonGroup button {
+      margin: 1vw 1vw 3vw 1vw;
+      padding: 1vw;
+    }
+    .record {
+      margin-bottom: 3vw;
+    }
+  }
+  
+  /* Write CSS Here
+  
+  .fade-enter {
+      opacity: 0;
+  }
+  
+  .fade-exit {
+      opacity: 1;
+  }
+  
+  .fade-enter-active {
+      opacity: 1;
+  }
+  
+  .fade-exit-active {
+      opacity: 0;
+  }
+  
+  .fade-enter-active,
+  .fade-exit-active {
+      transition: opacity 300ms;
+  }
+  
+  .a {
+      vertical-align: middle;
+      height: fit-content;
+      border: 4px solid green;
+      border-radius: 10px;
+      box-shadow: 2px 2px 2px 2px rgb(93, 94, 93, 0.4);
+      text-align: center;
+      background: rgb(255, 255, 255);
+      justify-content: center;
+      align-items: center;
+      display: flex;
+      flex-direction: column;
+      width: 35%;
+  }
+  
+  
+  .buttonRec {
+      width: 100px;
+      height: 30px;
+      border-radius: 4px;
+      padding: 4px;
+      color: rgb(38, 47, 96);
+      font-weight: bold;
+      background: rgb(195, 246, 197);
+  }
+  
+  .btn-mode {
+      width: 300px;
+      margin: 20px;
+      background: rgb(207, 215, 207);
+  }
+  
+  .p-mode {
+      margin: 20px;
+      color: rgb(43, 111, 52);
+  }
+  
+  .child {
+      margin: 20px;
+  }
+  
+  .dropdown-menu {
+      background: rgb(0, 24, 0);
+      margin: 20px;
+  }
+  
+  .dd-wrapper .dd-header {
+      background: rgb(228, 255, 228) !important;
+      font-weight: bold;
+      padding: 10px;
+      border-radius: 25px !important;
+      padding: 20px !important;
+  }
+  
+  .dd-wrapper .dd-list .dd-scroll-list {
+      background: rgb(228, 255, 228) !important;
+      border-radius: 25px !important;
+      padding: 20px !important;
+      overflow-y: hidden !important;
+  }
+  
+  .dd-wrapper .dd-list {
+      background: rgb(228, 255, 228) !important;
+      border-radius: 25px !important;
+      overflow-y: hidden !important;
+  }
+  
+  .dd-wrapper .dd-list .dd-scroll-list .dd-list-item {
+      font-size: 1.2rem !important;
+      font-weight: 200 !important;
+      color: black;
+      padding-bottom: 35px !important;
+  }
+  
+  .dd-wrapper .dd-list .dd-scroll-list .dd-list-item:hover {
+      background: #86D995 !important;
+      color: white;
+  }
+  .recordDiv{
+      width: 100%;
+    height: 100vh;
+    justify-content : center;
+    align-items : center;
+    display: flex;
+  }
+  .universeText{
+      font-size: 1.5rem;
+      font-weight: bold;
+      color: rgb(43, 111, 52);
+  } */
+  

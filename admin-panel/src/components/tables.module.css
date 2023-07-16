@@ -1,0 +1,86 @@
+.buttonTable {
+  background-color: #55e6c1;
+  color: #000000;
+  border-radius: 0.5vw;
+  border: none;
+  width: 50px;
+  padding: 0.5vw 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.buttonTableChangeRole{
+  background-color: #55e6c1;
+  color: #000000;
+  border-radius: 0.5vw;
+  border: none;
+  width: 100px;
+  padding: 0.5vw 0;
+  margin-bottom: 10px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.Pie{
+    height: 60vh !important;
+     width: 80vh !important; 
+ }
+ .Line{
+     margin-bottom: 2vh;
+     width: 100vh !important;
+     min-height: 60vh !important;
+ }
+ .image{
+     width: 30%;
+ }
+ .image:hover{
+     width: 55%;
+ }
+ @media screen and (max-width: 768px) {
+     .Pie {
+       width:80vw !important;
+     }
+     .Line{
+         width: 70vw !important;
+   
+ 
+     }
+     .cardContainer {
+       max-width: 10vw;
+       max-height: 10vw;
+       height: fit-content;
+       padding: 0 !important;
+     }
+     .cardDescription {
+       -webkit-line-clamp: 3;
+     }
+   }
+   .UserFeedbackContainer {
+     width: 80%;
+     margin: 0 auto 4vw auto;
+   }
+   .text{
+       color:white;
+       text-align: center;
+       font-size: 2rem;
+   }
+   .cardContainer {
+     max-width: 5vw;
+     min-height: 5vw;
+     height: fit-content;
+     border-radius: 1vw !important;
+   }
+   .cardIcon {
+     font-size: 2vw;
+     color: rgba(222, 184, 135, 0.6) !important;
+   }
+   .cardDescription {
+     display: -webkit-box;
+     -webkit-line-clamp: 5;
+     -webkit-box-orient: vertical;  
+     overflow: hidden;
+   }
+   .cardAuthor {
+     text-align: end;
+   }
+   
