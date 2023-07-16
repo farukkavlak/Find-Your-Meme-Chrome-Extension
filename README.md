@@ -10,7 +10,6 @@
 <h3 align="center">Find Your Meme Chrome Extension</h3>
 
   <p align="center">
-    Chrome Extension that uses ChatGPT effectively/quickly
     <br>
     <a href="#usage">Demo</a>
     ·
