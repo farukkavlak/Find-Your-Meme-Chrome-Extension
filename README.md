@@ -46,7 +46,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+Find Your Meme is a Chrome extension that enables users to discover and explore memes using tags. With its intuitive interface and integrated admin panel, it offers a seamless browsing experience while providing control over the displayed content. This project is like a chrome extension of the "Know Your Meme" website.
+####Features
+- Tag-Based Meme Search: Search for memes based on specific tags of interest. Find Your Meme retrieves relevant memes from a curated database, allowing users to explore content related to various themes, trends, or viral topics.
+- Save Memes with Images and Tags: Users can save their favorite memes along with custom tags. This feature allows for easy organization and retrieval of memes based on user-defined categories or keywords.
+- Admin Panel: The extension includes an admin panel that empowers administrators to manage image requests and maintain the quality of the displayed memes. Verify image submissions, delete inappropriate content, and ensure an enjoyable experience for all users.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -71,6 +75,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
+....
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -80,7 +85,7 @@ To get a local copy up and running follow these simple example steps.
 You can use the extension from the toolbar to save "meme" or you can search for the "meme" you want to search via tags.
 There is also admin panel for evaluating incoming requests, seeing registered "memes", seeing registered tags and performing necessary delete operations.
 
-
+...
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
