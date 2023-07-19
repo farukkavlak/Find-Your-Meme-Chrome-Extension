@@ -64,6 +64,13 @@ Find Your Meme is a Chrome extension that enables users to discover and explore 
 * [![javascript][javascript]][javascript]
 * [![next-js][next-js]][next-js]
 * [![react-js][react-js]][react-js]
+* ![PostgreSQL][postgre]
+
+- Backend: Java - Spring Boot
+- Database: PostgreSQL
+- Frontend: NextJS
+- Admin Panel: ReactJS
+- Blob Container - Image Storage: Microsoft Azure
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,3 +118,4 @@ There is also admin panel for evaluating incoming requests, seeing registered "m
 [spring]: https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [react-js]: https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge
 [azure]: https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white
+[postgre]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
